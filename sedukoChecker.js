@@ -1,6 +1,6 @@
  /**
-  * @Time 150 ms
-  * @Memory 46.1 MB
+  * @Time 75 ms
+  * @Memory 45.3 MB
   */
  var isValidSudoku = function(board) {
     let block = {
